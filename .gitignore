@@ -1,6 +1,6 @@
+# Never push these to GitHub
 .env
+.streamlit/secrets.toml
 __pycache__/
 *.pyc
-venv/
-.vscode/
 .DS_Store
