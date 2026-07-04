@@ -11,7 +11,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🎓 Multi-Agent Lesson Design System")
+st.title("Agentic Lesson Design System")
 st.markdown("""
 Three specialist AI agents collaborate to design your lesson:
 - **Agent 1 — Lesson Designer:** Creates the core structure
