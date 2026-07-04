@@ -1,6 +1,7 @@
 # 🎓 Multi-Agent Lesson Design System
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://multi-agent-leappn-design-system-c6ywqysxuxtagt8pyintys.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
+(https://agentic-leson-design-system-c6ywqysxuxtagt8pyintys.streamlit.app/)
 
 Three specialist AI agents collaborate to design 
 complete, inclusive, curriculum-aligned lesson plans.
