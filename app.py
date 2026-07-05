@@ -98,7 +98,7 @@ if st.button("🚀 Design my lesson", use_container_width=True):
         # No caching issues, no version conflicts
         # ─────────────────────────────────────────
         llm = LLM(
-            model="openrouter/auto",
+            model="google/gemma-4-26b-a4b-it:free",
             api_key=api_key,
             base_url="https://openrouter.ai/api/v1",
             temperature=0.7
